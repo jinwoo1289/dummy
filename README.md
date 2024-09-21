@@ -6,4 +6,6 @@
 
 &emsp; o `Jinwoo Park`
 
+● Team member
 
+&emsp; o `Hong`
