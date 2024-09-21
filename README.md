@@ -3,8 +3,9 @@
 
 ## Team 9 : 9
 ● Team leader
-   
-     ○ Jinwoo Park
+
+○ Jinwoo Park
+
 ● Team member
 
 
