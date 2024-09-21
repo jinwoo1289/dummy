@@ -8,4 +8,4 @@
 ● Team member
 
 
-<span style="background-color: #f6f8fa">Jinwoo Park</span>
+<span style="background-color: #f6f8fa">Jinwoo park</span>
