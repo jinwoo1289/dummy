@@ -4,13 +4,13 @@
 ## Team 9 : 9
 ● Team leader
 
-  o Jinwoo Park 
+    o Jinwoo Park 
   
-  o Hong
+    o Hong
 
 ● Team member
 
-  o yas
+    o yas
 
 
 
